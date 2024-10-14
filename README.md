@@ -12,11 +12,11 @@
 
 ## PURCHASE
 
-* [TEBEX](https://stfly.me/gearboxswitch)
+* [TEBEX](https://dking.tebex.io/package/6498306)
 
 ## HOW TO INSTALL
 
-* [Download](https://stfly.me/keymasterassets) script;
+* [Download](https://keymaster.fivem.net/asset-grants) script;
 * Place it in the resources folder;
 * Add 'ensure dk_gearbox_switch' (without quotes) to server.cfg.
 
@@ -45,8 +45,8 @@
 
 ## Discord
 
-### [Dking Warehouse](https://stfly.me/dkingwarehouse)
+### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
 
 # COPYRIGHT
 
-## BY [DKING](https://stfly.me/githubdking) 2024 ©
+## BY [DKING](https://github.com/Dking07) 2024 ©

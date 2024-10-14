@@ -23,6 +23,7 @@
 ## HOW TO USE
 
 * Use the '/gearbox' command or the keybind (configurable in the FiveM keybinds section) to toggle manual gear shifting on or off.
+* To use manual gear shifting, use the 'Shift Gear Up' and 'Shift Gear Down' keybinds, configurable in Settings > Key Bindings > GTA Online Vehicles.
 
 ### To work, you need to modify the handlings that you want the script to take effect on.
 
@@ -48,4 +49,4 @@
 
 # COPYRIGHT
 
-## BY [DKING](https://stfly.me/githubdking) 2024 © 
+## BY [DKING](https://stfly.me/githubdking) 2024 ©

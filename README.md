@@ -37,6 +37,12 @@
     </SubHandlingData>
     ```
 
+## CONFIG
+
+### In the configuration file you can:
+* Enable or disable the command and/or the key bind;
+* Change the command name.
+
 ## PREVIEW
 
 ### Coming soon...

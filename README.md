@@ -8,7 +8,7 @@
 
 * Add the 'gearbox' command and a keybind to toggle manual gear shifting on and off.
 
-## PURCHASE
+## DOWNLOAD
 
 * [TEBEX](https://dking.tebex.io/package/6498306)
 

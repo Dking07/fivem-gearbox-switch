@@ -41,7 +41,8 @@
 
 ### In the configuration file you can:
 * Enable or disable the command and/or the key bind;
-* Change the command name.
+* Change the command name;
+* Blacklist to include vehicles that will not be affected.
 ![](https://cdn.discordapp.com/attachments/1295245827039563866/1305374934675095603/config.png?ex=6732cca5&is=67317b25&hm=02b68049f19571d635526f19b9336e99ac9a8d8ab95ba746809bf01cdc252a87&)
 
 ## PREVIEW

@@ -38,7 +38,7 @@
     ```
 
 ## CONFIG
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1315391152194584596/config_512.png?ex=67573cf9&is=6755eb79&hm=56eb2a863c45bf9a48c8b03c45f6328c43a0510b173aa4376336da47fba84e4d&)
+![](https://media.discordapp.net/attachments/1295245827039563866/1315391152194584596/config_512.png?ex=676271b9&is=67612039&hm=66305cc0f11180d0eb2bef042a6aeb1647e62fa28f243f07983c845d899c1a3d&=&format=webp&quality=lossless&width=463&height=540)
 
 ## ANIMATION CONFIG
 ![](https://cdn.discordapp.com/attachments/1295245827039563866/1315391161757864016/animation_config_512.png?ex=67573cfb&is=6755eb7b&hm=d83d5255c40d3eb41c5a2bd0297a49041ae0950dde9069f8889fe8e6c104bf05&)

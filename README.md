@@ -8,9 +8,9 @@
 
 * Add the 'gearbox' command and a keybind to toggle manual gear shifting on and off with animation.
 
-## DOWNLOAD
+## GET NOW
 
-* [TEBEX](https://dking.tebex.io/package/6562197)
+* [DOWNLOAD](https://dking.tebex.io/package/6562197)
 
 ## HOW TO INSTALL
 

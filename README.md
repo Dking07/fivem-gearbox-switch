@@ -10,7 +10,7 @@
 
 ## GET NOW
 
-* [DOWNLOAD](https://dking.tebex.io/package/6562197)
+* [DOWNLOAD](https://dking.tebex.io/package/6575155)
 
 ## HOW TO INSTALL
 

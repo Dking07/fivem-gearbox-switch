@@ -1,5 +1,9 @@
 # GEARBOX SWITCH [STANDALONE]
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1315387394899574855/Gearbox_Switch_512x512.png?ex=67573979&is=6755e7f9&hm=001e50da835a8c92ebd9016f2a4912c18eee3e8f4527f021a30c1723aba80d2d&)
+
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315387394899574855/Gearbox_Switch_512x512.png?ex=679d18f9&is=679bc779&hm=f7e30c60930e14189181a8435aa89f61a7b40487c3ff98fb87c89b6862b1319a&" width="500px" />
+</div>
+
 ## DESCRIPTION
 
 ### Enable manual gear shifting through a command or keybind.
@@ -38,10 +42,14 @@
     ```
 
 ## CONFIG
-![](https://media.discordapp.net/attachments/1295245827039563866/1315391152194584596/config_512.png?ex=676271b9&is=67612039&hm=66305cc0f11180d0eb2bef042a6aeb1647e62fa28f243f07983c845d899c1a3d&=&format=webp&quality=lossless&width=463&height=540)
+<div align="left">
+<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315391152194584596/config_512.png?ex=679d1c79&is=679bcaf9&hm=a2eb12b807dab018fad88ca56492fd670c95576a5fa8672807350a147f07ed93&" width="400px" />
+</div>
 
 ## ANIMATION CONFIG
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1315391161757864016/animation_config_512.png?ex=67573cfb&is=6755eb7b&hm=d83d5255c40d3eb41c5a2bd0297a49041ae0950dde9069f8889fe8e6c104bf05&)
+<div align="left">
+<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315391161757864016/animation_config_512.png?ex=679d1c7b&is=679bcafb&hm=2abcb29525bbac353db42d16eb89a7c09bb59514ef2f45496887c22ccf14bd09&" width="400px" />
+</div>
 
 ## PREVIEW
 

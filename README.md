@@ -48,7 +48,7 @@
 
 ## ANIMATION CONFIG
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315391161757864016/animation_config_512.png?ex=679d1c7b&is=679bcafb&hm=2abcb29525bbac353db42d16eb89a7c09bb59514ef2f45496887c22ccf14bd09&" width="400px" />
+<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315391161757864016/animation_config_512.png?ex=67a7a87b&is=67a656fb&hm=5ef26229bb00ee1574876237fc9a12f28be431f9e0f1d263a51ac0f27c47fcab&" width="400px" />
 </div>
 
 ## PREVIEW

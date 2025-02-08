@@ -71,4 +71,4 @@
 
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2024 ©
+## BY [DKING](https://github.com/Dking07) 2025 ©

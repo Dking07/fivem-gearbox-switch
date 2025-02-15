@@ -1,7 +1,7 @@
 # GEARBOX SWITCH [STANDALONE]
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315387394899574855/Gearbox_Switch_512x512.png?ex=679d18f9&is=679bc779&hm=f7e30c60930e14189181a8435aa89f61a7b40487c3ff98fb87c89b6862b1319a&" width="500px" />
+<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Gearbox%20Switch/Gearbox%20Switch.png" width="500px" />
 </div>
 
 ## DESCRIPTION
@@ -48,7 +48,7 @@
 
 ## ANIMATION CONFIG
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315391161757864016/animation_config_512.png?ex=67a7a87b&is=67a656fb&hm=5ef26229bb00ee1574876237fc9a12f28be431f9e0f1d263a51ac0f27c47fcab&" width="400px" />
+<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Gearbox%20Switch/animation_config.png" width="400px" />
 </div>
 
 ## PREVIEW

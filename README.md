@@ -70,9 +70,9 @@
 * Use the '/gearbox' command or bind (both configurable in config.lua) to enable or disable manual gear shifting.
 * To switch gears use the 'Shift Gear Up' and 'Shift Gear Down' binds, configurable in: Settings > Key Bindings > GTA Online Vehicles.
 
-### To work, you need to modify the handlings that you want the script to take effect on.
+## MODIFICATIONS
 
-* ### Modifications
+### To work, you need to modify the handlings that you want the script to take effect on.
 
 * Add CCarHandlingData in the SubHandlingData section, like this:
   ```

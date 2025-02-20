@@ -1,7 +1,7 @@
 # GEARBOX SWITCH [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Gearbox%20Switch/Gearbox%20Switch.png" width="500px" />
+<img src="https://github.com/Dking07/fivem-gearbox-switch/blob/main/Gearbox%20Switch.png" width="500px" />
 </div>
 
 ## DESCRIPTION
@@ -10,11 +10,11 @@
 
 ## CHANGES
 
-* Add the 'gearbox' command and a keybind to toggle manual gear shifting on and off with animation.
+* Add the 'gearbox' command and a keybind to toggle manual gear shifting on and off with animation and sound effect.
 
 ## GET NOW
 
-* [DOWNLOAD](https://dking.tebex.io/package/6575155)
+* [DOWNLOAD](https://dking.tebex.io/package/6562197)
 
 ## HOW TO INSTALL
 
@@ -24,8 +24,8 @@
 
 ## HOW TO USE
 
-* Use the '/gearbox' command or the keybind (configurable in the FiveM keybinds section) to toggle manual gear shifting on or off.
-* To use manual gear shifting, use the 'Shift Gear Up' and 'Shift Gear Down' keybinds, configurable in Settings > Key Bindings > GTA Online Vehicles.
+* Use the '/gearbox' command or bind (both configurable in config.lua) to enable or disable manual gear shifting.
+* To switch gears use the 'Shift Gear Up' and 'Shift Gear Down' binds, configurable in: Settings > Key Bindings > GTA Online Vehicles.
 
 ### To work, you need to modify the handlings that you want the script to take effect on.
 
@@ -43,12 +43,12 @@
 
 ## CONFIG
 <div align="left">
-<img src="https://cdn.discordapp.com/attachments/1295245827039563866/1315391152194584596/config_512.png?ex=679d1c79&is=679bcaf9&hm=a2eb12b807dab018fad88ca56492fd670c95576a5fa8672807350a147f07ed93&" width="400px" />
+<img src="https://github.com/Dking07/fivem-gearbox-switch/blob/main/config.png" width="400px" />
 </div>
 
 ## ANIMATION CONFIG
 <div align="left">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Gearbox%20Switch/animation_config.png" width="400px" />
+<img src="https://github.com/Dking07/fivem-gearbox-switch/blob/main/animation_config.png" width="400px" />
 </div>
 
 ## PREVIEW
@@ -68,6 +68,19 @@
 ### 1.2
 
 * Added gear shift animation.
+
+### 1.3
+
+* Added manual and sequential shift sound effects;
+* Added sequential gear shift animation;
+* Added new right hand gear shift animation;
+* Added exports for:
+  * Toggles the manual gearbox on/off;
+  * Enables the manual gearbox;
+  * Disables the manual gearbox;
+  * Checks if the manual gearbox is currently enabled;
+  * Gets the current gear of the vehicle;
+  * Manually triggers the gear shift animation;
 
 # COPYRIGHT
 

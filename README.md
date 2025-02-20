@@ -6,11 +6,54 @@
 
 ## DESCRIPTION
 
-### Enable manual gear shifting through a command or keybind.
+### A manual transmission script that adds gear shifting mechanics to FiveM vehicles, with custom animations and sound effects.
 
-## CHANGES
+## KEY FEATURES
 
-* Add the 'gearbox' command and a keybind to toggle manual gear shifting on and off with animation and sound effect.
+- **Manual Transmission**
+  - Seamless switching between automatic and manual transmission
+  - Support for both sequential and H-pattern shifting
+  - Customizable gear shifting animations
+  - High-quality sound effects for each gear change
+
+- **Vehicle-Specific Features**
+  - Right-hand drive support with correct animations
+  - Sequential transmission support for sports/racing vehicles
+  - Customizable vehicle blacklist
+  - Different animations for sequential and manual transmissions
+
+- **Rich Sound System**
+  - Unique sounds for each gear
+  - Separate sound sets for sequential and manual transmissions
+  - Adjustable volume controls
+  - High-quality audio files
+
+- **Developer-Friendly**
+  - Full export system for easy integration
+  - Comprehensive configuration options
+  - Clean, well-documented code
+  - Easy to maintain and extend
+
+## TECHNICAL FEATURES
+
+- Optimized performance with minimal resource usage
+- Built-in configuration system
+- Customizable key bindings
+- Easy installation and setup
+
+## INTEGRATION
+
+- Full exports system for framework integration
+- Easy to integrate with inventory systems
+- Compatible with most vehicle mods
+- Supports both standalone and framework setups
+
+## CONFIGURATION
+
+- Easily customize vehicle lists
+- Adjust sound volumes
+- Configure key bindings
+- Modify animation settings
 
 ## GET NOW
 
@@ -29,17 +72,17 @@
 
 ### To work, you need to modify the handlings that you want the script to take effect on.
 
-### Modifications
+* ### Modifications
 
 * Add CCarHandlingData in the SubHandlingData section, like this:
-    ```
-    <SubHandlingData>
-        <Item type="CCarHandlingData">
-        </Item>
-        <Item type="NULL" />
-        <Item type="NULL" />
-    </SubHandlingData>
-    ```
+  ```
+  <SubHandlingData>
+    <Item type="CCarHandlingData">
+    </Item>
+    <Item type="NULL" />
+    <Item type="NULL" />
+  </SubHandlingData>
+  ```
 
 ## CONFIG
 <div align="left">

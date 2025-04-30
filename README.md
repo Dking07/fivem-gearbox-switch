@@ -86,7 +86,7 @@
 
 ## CONFIG
 <div align="left">
-<img src="https://github.com/Dking07/fivem-gearbox-switch/blob/main/animation_config.png" width="400px" />
+<img src="https://github.com/Dking07/fivem-gearbox-switch/blob/main/config.png" width="400px" />
 </div>
 
 ## ANIMATION CONFIG

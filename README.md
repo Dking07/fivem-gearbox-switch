@@ -98,6 +98,10 @@
 
 ### Coming soon...
 
+## DEPENDENCIES
+
+* [ox_lib](https://github.com/overextended/ox_lib) (Only for notifys)
+
 ## Discord
 
 ### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)

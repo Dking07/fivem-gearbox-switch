@@ -129,6 +129,10 @@
   * Gets the current gear of the vehicle;
   * Manually triggers the gear shift animation;
 
+### 1.3.2
+
+* Fixed animation names.
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©

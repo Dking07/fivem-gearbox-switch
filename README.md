@@ -102,9 +102,9 @@
 
 * [ox_lib](https://github.com/overextended/ox_lib) (Only for notifys)
 
-## Discord
+## SUPPORT
 
-### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+### [Discord](https://discord.gg/Rw6vjcXspG)
 
 ## CHANGELOGS
 

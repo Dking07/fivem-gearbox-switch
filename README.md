@@ -100,7 +100,7 @@
 
 ## DEPENDENCIES
 
-* [ox_lib](https://github.com/overextended/ox_lib) (Only for notifys)
+* [ox_lib](https://github.com/overextended/ox_lib)
 
 ## SUPPORT
 

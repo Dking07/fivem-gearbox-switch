@@ -1,12 +1,12 @@
 # GEARBOX SWITCH [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-gearbox-switch/blob/main/Gearbox%20Switch.png" width="500px" />
+<img src="https://github.com/user-attachments/assets/c5e7b9c4-2ad2-4655-8714-cd474336be60" width="500px" />
 </div>
 
 ## DESCRIPTION
 
-### A manual transmission script that adds gear shifting mechanics to FiveM vehicles, with custom animations and sound effects.
+A manual transmission script that adds gear shifting mechanics with clutch to FiveM vehicles, with custom animations and sound effects.
 
 ## KEY FEATURES
 
@@ -44,7 +44,7 @@
 ## INTEGRATION
 
 - Full exports system for framework integration
-- Easy to integrate with inventory systems
+- Easy to integrate
 - Compatible with most vehicle mods
 - Supports both standalone and framework setups
 
@@ -61,21 +61,21 @@
 
 ## HOW TO INSTALL
 
-* [Download](https://keymaster.fivem.net/asset-grants) script;
+* [Download](https://portal.cfx.re/assets/granted-assets) script;
 * Place it in the resources folder;
 * Add 'ensure dking_gearbox_switch' (without quotes) to server.cfg.
 
 ## HOW TO USE
 
-* Use the '/gearbox' command or bind (both configurable in config.lua) to enable or disable manual gear shifting.
-* To switch gears use the 'Shift Gear Up' and 'Shift Gear Down' binds, configurable in: Settings > Key Bindings > GTA Online Vehicles.
+* Use the '/gearbox' command or bind (both configurable in config/config.lua) to enable or disable manual gear shifting.
+* To switch gears use the binds `clutch` + `GearUp` and `GearDown`, configurable in: Settings > Key Bindings > FiveM.
 
 ## MODIFICATIONS
 
 ### To work, you need to modify the handlings that you want the script to take effect on.
 
 * Add CCarHandlingData in the SubHandlingData section, like this:
-  ```
+  ```xml
   <SubHandlingData>
     <Item type="CCarHandlingData">
     </Item>
@@ -84,23 +84,10 @@
   </SubHandlingData>
   ```
 
-## CONFIG
-<div align="left">
-<img src="https://github.com/Dking07/fivem-gearbox-switch/blob/main/config.png" width="400px" />
-</div>
-
-## ANIMATION CONFIG
-<div align="left">
-<img src="https://github.com/Dking07/fivem-gearbox-switch/blob/main/animation_config.png" width="400px" />
-</div>
-
-## PREVIEW
-
-### Coming soon...
-
 ## DEPENDENCIES
 
-* [ox_lib](https://github.com/overextended/ox_lib)
+* GameBuild 3095 or higher
+* [ox_lib](https://github.com/overextended/ox_lib) (Only for notifys)
 
 ## SUPPORT
 
@@ -132,6 +119,14 @@
 ### 1.3.2
 
 * Fixed animation names.
+
+### 1.3.3
+
+* Various improvements;
+* Changed the logic for shifting gears;
+* Changed the binds for shifting gears;
+* Clutch system added;
+* Changes to exports.
 
 # COPYRIGHT
 

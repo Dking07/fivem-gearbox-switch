@@ -63,7 +63,7 @@ A manual transmission script that adds gear shifting mechanics with clutch to Fi
 
 * [Download](https://portal.cfx.re/assets/granted-assets) script;
 * Place it in the resources folder;
-* Add 'ensure dking_gearbox_switch' (without quotes) to server.cfg.
+* Add 'ensure dking_gearbox' (without quotes) to server.cfg.
 
 ## HOW TO USE
 
@@ -89,9 +89,9 @@ A manual transmission script that adds gear shifting mechanics with clutch to Fi
 * GameBuild 3095 or higher
 * [ox_lib](https://github.com/overextended/ox_lib) (Only for notifys)
 
-## SUPPORT
+## Discord
 
-### [Discord](https://discord.gg/Rw6vjcXspG)
+### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
 
 ## CHANGELOGS
 

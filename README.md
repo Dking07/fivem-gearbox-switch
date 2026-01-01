@@ -6,7 +6,7 @@
 
 ## DESCRIPTION
 
-A manual transmission script that adds gear shifting mechanics with clutch to FiveM vehicles, with custom animations and sound effects.
+Gear shift system that adds clutch or sequential gear shifting mechanics to FiveM, with custom animations and sound effects.
 
 ## KEY FEATURES
 
@@ -95,39 +95,63 @@ A manual transmission script that adds gear shifting mechanics with clutch to Fi
 
 ## CHANGELOGS
 
-### 1.1
+<details>
+  <summary><h2 style="display: inline;">Expand</h2></summary>
 
-* Added blacklist of vehicle models that will not be affected by the script.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.1</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added blacklist of vehicle models that will not be affected by the script.</li>
+    </ul>
+  </details>
 
-### 1.2
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added gear shift animation.</li>
+    </ul>
+  </details>
 
-* Added gear shift animation.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added manual and sequential shift sound effects;</li>
+      <li>Added sequential gear shift animation;</li>
+      <li>Added new right hand gear shift animation;</li>
+      <li>Added exports for:</li>
+      <details>
+        <summary>Exports</summary>
+        <ul>
+          <li>Toggles the manual gearbox on/off;</li>
+          <li>Enables the manual gearbox;</li>
+          <li>Disables the manual gearbox;</li>
+          <li>Checks if the manual gearbox is currently enabled;</li>
+          <li>Gets the current gear of the vehicle;</li>
+          <li>Manually triggers the gear shift animation.</li>
+        </ul>
+      </details>
+    </ul>
+  </details>
 
-### 1.3
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.2</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Fixed animation names.</li>
+    </ul>
+  </details>
 
-* Added manual and sequential shift sound effects;
-* Added sequential gear shift animation;
-* Added new right hand gear shift animation;
-* Added exports for:
-  * Toggles the manual gearbox on/off;
-  * Enables the manual gearbox;
-  * Disables the manual gearbox;
-  * Checks if the manual gearbox is currently enabled;
-  * Gets the current gear of the vehicle;
-  * Manually triggers the gear shift animation;
-
-### 1.3.2
-
-* Fixed animation names.
-
-### 1.3.3
-
-* Various improvements;
-* Changed the logic for shifting gears;
-* Changed the binds for shifting gears;
-* Clutch system added;
-* Changes to exports.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.3</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Various improvements;</li>
+      <li>Changed the logic for shifting gears;</li>
+      <li>Changed the binds for shifting gears;</li>
+      <li>Clutch system added;</li>
+      <li>Changes to exports.</li>
+    </ul>
+  </details>
+</details>
 
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2025 ©
+## BY [DKING](https://github.com/Dking07) 2026 ©

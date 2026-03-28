@@ -150,6 +150,13 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
       <li>Changes to exports.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.5</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Fixed animations not working.</li>
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT

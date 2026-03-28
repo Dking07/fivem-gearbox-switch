@@ -84,6 +84,18 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
   </SubHandlingData>
   ```
 
+## EXPORTS
+
+<details>
+  <summary><h2 style="display: inline;">Expand</h2></summary>
+
+  <img src="https://github.com/user-attachments/assets/55dce846-08ca-4177-85fb-3f8ecfb0930e" alt="export" style="margin: 5px;"/>
+</details>
+
+## PREVIEW
+
+* [YouTube](https://youtu.be/YmGZNqnDEBM?list=PLigXALMD1Wk365MRTvQEnY77i7qgXSkkY)
+
 ## DEPENDENCIES
 
 * GameBuild 3095 or higher

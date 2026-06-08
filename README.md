@@ -94,16 +94,16 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
 
 ## PREVIEW
 
-* [YouTube](https://youtu.be/YmGZNqnDEBM?list=PLigXALMD1Wk365MRTvQEnY77i7qgXSkkY)
+* [YouTube](https://youtu.be/YmGZNqnDEBM)
 
 ## DEPENDENCIES
 
 * GameBuild 3095 or higher
 * [ox_lib](https://github.com/overextended/ox_lib) (Only for notifys)
 
-## Discord
+## SUPPORT
 
-### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+### [Discord](https://discord.gg/Rw6vjcXspG)
 
 ## CHANGELOGS
 
@@ -167,6 +167,13 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
     <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.5</h3></summary>
     <ul style="margin-left: 20px;">
       <li>Fixed animations not working.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.6</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Changed all sound effects logic.</li>
     </ul>
   </details>
 </details>

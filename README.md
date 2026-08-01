@@ -91,7 +91,7 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
 ## DEPENDENCIES
 
 * GameBuild 3095 or higher
-* [ox_lib](https://github.com/overextended/ox_lib) (Only for notifys)
+* [ox_lib](https://github.com/overextended/ox_lib) (Only for notifys, remove/comment `'@ox_lib/init.lua',` from fxmanifest if you don't have oxlib)
 
 ## SUPPORT
 

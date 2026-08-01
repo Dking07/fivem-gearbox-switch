@@ -25,14 +25,7 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
 - **Rich Sound System**
   - Unique sounds for each gear
   - Separate sound sets for sequential and manual transmissions
-  - Adjustable volume controls
   - High-quality audio files
-
-- **Developer-Friendly**
-  - Full export system for easy integration
-  - Comprehensive configuration options
-  - Clean, well-documented code
-  - Easy to maintain and extend
 
 ## TECHNICAL FEATURES
 
@@ -51,7 +44,6 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
 ## CONFIGURATION
 
 - Easily customize vehicle lists
-- Adjust sound volumes
 - Configure key bindings
 - Modify animation settings
 
@@ -174,6 +166,17 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
     <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.6</h3></summary>
     <ul style="margin-left: 20px;">
       <li>Changed all sound effects logic.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.7</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Completely removed any automatic shifting when the gearbox is activated, now 100% of gear changes are done manually;</li>
+      <li>Added ignition cut and rev match (Punta-Tacco) systems;</li>
+      <li>Added clutch engagement system, now if you keep the clutch pressed while moving, the car starts to slow down;</li>
+      <li>Added a few more improvements and fixes;</li>
+      <li>Updated exports.<li>
     </ul>
   </details>
 </details>

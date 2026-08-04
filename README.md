@@ -81,7 +81,7 @@ Gear shift system that adds clutch or sequential gear shifting mechanics to Five
 <details>
   <summary><h2 style="display: inline;">Expand</h2></summary>
 
-  <img src="https://github.com/user-attachments/assets/55dce846-08ca-4177-85fb-3f8ecfb0930e" alt="export" style="margin: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/17682bcb-be2a-4d2e-b7a5-8255ac25943d" alt="export" style="margin: 5px;"/>
 </details>
 
 ## PREVIEW
